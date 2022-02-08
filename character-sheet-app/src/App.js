@@ -1,4 +1,5 @@
 import { Route } from 'react-router-dom';
+import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Switch } from 'react-router';
 import createCharacter from './pages/CreateCharacter';
