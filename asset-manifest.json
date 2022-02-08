@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RPG-Character-Sheet/static/css/main.0e2fcd26.chunk.css",
+    "main.js": "/RPG-Character-Sheet/static/js/main.a98cf1d0.chunk.js",
+    "main.js.map": "/RPG-Character-Sheet/static/js/main.a98cf1d0.chunk.js.map",
+    "runtime-main.js": "/RPG-Character-Sheet/static/js/runtime-main.674bad3a.js",
+    "runtime-main.js.map": "/RPG-Character-Sheet/static/js/runtime-main.674bad3a.js.map",
+    "static/css/2.383c0125.chunk.css": "/RPG-Character-Sheet/static/css/2.383c0125.chunk.css",
+    "static/js/2.64a3717c.chunk.js": "/RPG-Character-Sheet/static/js/2.64a3717c.chunk.js",
+    "static/js/2.64a3717c.chunk.js.map": "/RPG-Character-Sheet/static/js/2.64a3717c.chunk.js.map",
+    "static/js/3.a4253214.chunk.js": "/RPG-Character-Sheet/static/js/3.a4253214.chunk.js",
+    "static/js/3.a4253214.chunk.js.map": "/RPG-Character-Sheet/static/js/3.a4253214.chunk.js.map",
+    "index.html": "/RPG-Character-Sheet/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/RPG-Character-Sheet/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.0e2fcd26.chunk.css.map": "/RPG-Character-Sheet/static/css/main.0e2fcd26.chunk.css.map",
+    "static/js/2.64a3717c.chunk.js.LICENSE.txt": "/RPG-Character-Sheet/static/js/2.64a3717c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.674bad3a.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.64a3717c.chunk.js",
+    "static/css/main.0e2fcd26.chunk.css",
+    "static/js/main.a98cf1d0.chunk.js"
+  ]
+}
