@@ -17,7 +17,7 @@ export default function PersonalDetails() {
           </div>
         </div>
         <div>
-          <h3></h3>
+          <h3>a</h3>
         </div>
       </div>
     </div>
